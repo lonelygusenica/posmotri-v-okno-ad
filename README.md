@@ -1,1 +1,1 @@
-https://github.com/lonelygusenica/posmotri-v-okno-ad#
+https://github.com/lonelygusenica/posmotri-v-okno-ad
